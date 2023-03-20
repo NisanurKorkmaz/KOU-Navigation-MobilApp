@@ -1,6 +1,7 @@
 # KOCAELI ÜNIVERSITESI ULASIM UYGULAMASI 
 ## :calling: Uygulama Hakkında 
 ## :gear: Kullanılan Teknolojiler
+- [SwiftIU](https://developer.apple.com/xcode/swiftui/)
 
 ## :camera_flash: Ekran Görüntüleri
 ## Anasayfa : 
