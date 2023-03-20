@@ -1,7 +1,8 @@
 # KOCAELI ÜNIVERSITESI ULASIM UYGULAMASI 
 ## :calling: Uygulama Hakkında 
 ## :gear: Kullanılan Teknolojiler
-- [SwiftIU](https://developer.apple.com/xcode/swiftui/)
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- [Maps API](https://developer.apple.com/maps/)
 
 ## :camera_flash: Ekran Görüntüleri
 ## Anasayfa : 
