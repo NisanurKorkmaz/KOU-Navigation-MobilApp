@@ -39,9 +39,7 @@ struct MapView: View {
                 viewModel.checkIfLocationServicesIsEnabled()
 
         }
-//        VStack{
-//            Text(veri)}
-//    }
+
 }
 
 struct MapView_Previews: PreviewProvider {
