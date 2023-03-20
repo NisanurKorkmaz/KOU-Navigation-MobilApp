@@ -1,5 +1,5 @@
 # KOCAELI ÜNIVERSITESI ULASIM UYGULAMASI 
-## :calling: About
+## :calling: Uygulama Hakkında 
 ## :gear: Technologies
 
 ## :camera_flash: Screenshots
