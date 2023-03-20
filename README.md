@@ -2,7 +2,7 @@
 ## :calling: Uygulama Hakkında 
 ## :gear: Kullanılan Teknolojiler
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-- [Maps API](https://developer.apple.com/maps/)
+- [Maps API](https://developer.apple.com/documentation/mapkit/map)
 
 ## :camera_flash: Ekran Görüntüleri
 ## Anasayfa : 
