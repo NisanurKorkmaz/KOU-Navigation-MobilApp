@@ -1,5 +1,8 @@
 # KOCAELI ÜNIVERSITESI ULASIM UYGULAMASI 
 ## :calling: Uygulama Hakkında 
+Kocaeli Üniversitesi Ulaşım Uygulaması basit bir yol tarifi uygulaması olarak özetlenebilir.
+Anasayfada bulunan konumlardan birine tikladigimiz zaman bulundugumuz konum ve gitmek istegimiz konum ekranda gösteriliyor.
+Anasayfadan bulunan fakültelerden başka bir konuma gitmek istenirse ayni sayfada bulunan arama çubuğuna tıklanarak arama yapılabilir. Burda Kocaeli üniversitesi kampüsünde bulunan 50'den fazla konumun bilgisine ulaşılabilir. Anasayfada bulunan sol üst kösede bulunan butona tıklayarak yan sekme açılır ve burda bulunan üniversitenin farklı sosyal medya mecralarına da ulaşılabilir
 ## :gear: Kullanılan Teknolojiler
 - [Swift](https://developer.apple.com/swift/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
