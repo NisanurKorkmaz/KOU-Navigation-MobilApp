@@ -7,8 +7,9 @@ Anasayfadan bulunan fakültelerden başka bir konuma gitmek istenirse ayni sayfa
 - [Swift](https://developer.apple.com/swift/)
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [Maps API](https://developer.apple.com/documentation/mapkit/map)
-<div align="center">
+
 ## :camera_flash: Ekran Görüntüleri
+<div align="center">
 | Anasayfa | Harita ve Konum |
 | --- | --- |
 | <img width="344" alt="Capture d’écran 2023-02-27 à 11 40 44" src="https://user-images.githubusercontent.com/80275552/221515612-66c06ee8-5282-48a2-a982-e042d4a239d7.png"> | <img width="327" alt="Capture d’écran 2023-02-27 à 11 41 38" src="https://user-images.githubusercontent.com/80275552/221516454-aca8eb7b-c19a-425a-b5c2-6a5a72447205.png"> |
